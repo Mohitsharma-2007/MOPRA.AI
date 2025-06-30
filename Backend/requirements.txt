@@ -1,0 +1,10 @@
+quart>=0.18.4
+psutil
+python-dotenv
+openai>=1.0.0
+anthropic
+google-generativeai
+requests
+aiohttp
+httpx
+hypercorn
